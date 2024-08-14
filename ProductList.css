@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(145, 155, 164);
+}
+.container{
+    height: 100px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 2rem;
+    margin-left: 30rem;
+    margin-top: 20rem;
+    background-color: rgb(194, 142, 195);
+    border-radius: 2rem;
+}
+input{
+    border-radius: 1rem;
+}
+button{
+    border-radius: 1rem;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    text-overflow: ellipsis;
+
+}
+
